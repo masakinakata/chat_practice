@@ -1,0 +1,3 @@
+MESSAGE 1 nakata test
+MESSAGE 1 nakata you are
+MESSAGE 1 nakata great
